@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marketlist/static/css/main.2aed1e38.css",
+    "main.js": "/marketlist/static/js/main.97c4f446.js",
+    "static/js/488.75f1601f.chunk.js": "/marketlist/static/js/488.75f1601f.chunk.js",
+    "static/media/hajia.jpg": "/marketlist/static/media/hajia.e62a5c5441b22dfe43df.jpg",
+    "index.html": "/marketlist/index.html",
+    "main.2aed1e38.css.map": "/marketlist/static/css/main.2aed1e38.css.map",
+    "main.97c4f446.js.map": "/marketlist/static/js/main.97c4f446.js.map",
+    "488.75f1601f.chunk.js.map": "/marketlist/static/js/488.75f1601f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aed1e38.css",
+    "static/js/main.97c4f446.js"
+  ]
+}
